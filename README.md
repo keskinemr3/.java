@@ -1,6 +1,6 @@
 # .javalearning
 first java experience
 
-if you somehow got access to these files, please contact the owner immediately.
+i don't know what to say.
 
-mail : keskin.e0130@gmail.com
+contact info : keskin.e0130@gmail.com
