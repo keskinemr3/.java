@@ -3,9 +3,13 @@
 first Java learning experience.
 
 this repository is unfinished and i am currently learning the language.
+
 this repository contains my Java practice files and mini-projects based on courses from [BTK Akademi](https://www.btkakademi.gov.tr/).
+
 all course materials are publicly available.
+
 explanations for the code are written as comments inside the class files.
+
 
 ## repository structure
 
