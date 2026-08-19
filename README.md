@@ -1,6 +1,7 @@
 # java learning journey
 
-first Java learning experience.
+**first Java learning experience.**
+
 
 this repository is unfinished and i am currently learning the language.
 
