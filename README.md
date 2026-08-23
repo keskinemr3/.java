@@ -35,4 +35,4 @@ small practice algorithms and logic games:
 * **mukemmelSayi:** perfect number algorithm
 * **sayiBulma:** number searching logic
 * **sesliHarfler:** vowel classification
-* **temelHesapmakinesi** basic calculator
+* **temelHesapmakinesi:** basic calculator
