@@ -22,12 +22,12 @@ basic java syntax and logic exercises:
 * loops & arrays (single & multi-dimensional)
 * string manipulation
 
-### 2. methods and functions (`untitled2`)
+### 2. methods and oop basics (`untitled2`)
 
-* method signatures, parameters, and return types
-* reusable logic implementations
+* **methods (`methods`, `methods2`):** method signatures, parameters, and return types
+* **object-oriented programming (`classes`, `classesWithAttributes`):** class structures, objects, attributes, getters & setters
 
-### 3. beginner Projects (`projects`)
+### 3. beginner projects (`projects`)
 small practice algorithms and logic games:
 
 * **arkadasSayi:** amicable numbers checker
