@@ -17,10 +17,12 @@ explanations for the code are written as comments inside the class files.
 ### 1. fundamentals (`untitled`)
 basic java syntax and logic exercises:
 
-* variables & data types
-* conditionals & switch statements
-* loops & arrays (single & multi-dimensional)
-* string manipulation
+* **variables:** data types and variable declarations
+* **conditionals & switchDemo:** if-else statements and switch-case logic
+* **loopDemo:** for, while, and do-while loops
+* **arraysDemo & multiDimensionalArrayDemo:** single and multi-dimensional array processing
+* **stringsDemo:** string methods and manipulation
+* **recapDemo1 & reCapDemo2:** practical review exercises
 
 ### 2. methods and oop basics (`untitled2`)
 
