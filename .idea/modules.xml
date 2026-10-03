@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/.java.iml" filepath="$PROJECT_DIR$/.idea/.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/untitled/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/asalsayiProject/asalsayiProject.iml" filepath="$PROJECT_DIR$/projects/asalsayiProject/asalsayiProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/classes/classes.iml" filepath="$PROJECT_DIR$/untitled2/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/untitled2/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/untitled/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/untitled/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/methods/methods.iml" filepath="$PROJECT_DIR$/untitled2/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled2/methods2/methods2.iml" filepath="$PROJECT_DIR$/untitled2/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/untitled/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/untitled/reCapDemo2/reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/untitled/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/untitled/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/untitled/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/temelHesapmakinesi/temelHesapmakinesi.iml" filepath="$PROJECT_DIR$/projects/temelHesapmakinesi/temelHesapmakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/variables/variables.iml" filepath="$PROJECT_DIR$/untitled/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
